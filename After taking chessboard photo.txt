@@ -1,0 +1,7 @@
+RMS error (reprojection error): 1.02 → that’s good! (<1.0 is ideal, but <2.0 is still fine)
+
+✅ Camera matrix (mtx) → describes your camera’s focal lengths and optical center.
+
+✅ Distortion coefficients (dist) → corrects lens distortion (fisheye, barrel, etc.)
+
+✅ Calibration data saved → calibration.npz
