@@ -21,3 +21,5 @@ This project implements various image processing and computer vision functions, 
 ### **1. Setup Environment**
 ```bash
 pip install -r requirements.txt
+python app.py
+
